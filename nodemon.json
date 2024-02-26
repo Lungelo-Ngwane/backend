@@ -1,8 +1,0 @@
-{
-    "env": {
-        "DB_USER": "lungelongwane17",
-        "DB_PASSWORD": "aue3gkfR1aHHCkGq",
-        "DB_NAME": "mern",
-        "JWT_SECRET": "supersecret_dont_share"
-    }
-}
